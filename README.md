@@ -1,14 +1,14 @@
-<h1 align="center">Guideline for setting up <code>Software</code>, <code>IDE</code>, <code>Extension</code> etc.</h1>
+<h1 align="center">Guideline for setting up Software, IDE, Extension etc.</h1>
 
-* Setting up programming environment is sometimes troublesome especially for beginners. Beginners face hardle in setting up `IDE`, `Compiler`, `Extension`, & setting path to environment variable.
-
-<br>
-
-* After completing setup, desired settings is an issue. People have different `preferences` and want their application to behave as such.
+* Setting up programming environment is sometimes troublesome especially for beginners. Beginners face hardle in setting up IDE, Compiler, Extension, & setting path to environment variable.
 
 <br>
 
-* Performance boosting & increased usability is preferred. `Extension`/`plug-in`/`packages` provides these.
+* After completing setup, desired settings is an issue. People have different preferences and want their application to behave as such.
+
+<br>
+
+* Performance boosting & increased usability is preferred. Extension/plug-in/packages provides these features.
 
 <br>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Installing & Setting Up Sublime Text & MinGW Compiler</h1>
+<h1 align="center">Installing Sublime Text & MinGW Compiler</h1>
 
 * [Visit here](https://www.sublimetext.com/download) and click on windows to install Sublime Text.<br>
 Since it is a text editor, you need a compiler such as `MinGW` to compile your code.
